@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Graphic.c" open="0" top="0" tabpos="0">
+		<Cursor position="459" topLine="0" />
+		<BrowseMarks positions="18" />
+	</File>
+	<File name="Window.h" open="0" top="0" tabpos="4">
+		<Cursor position="244" topLine="0" />
+		<BrowseMarks positions="47,78,182,204,227,271,316,335,373,447" />
+	</File>
+	<File name="g_Rectangle.h" open="0" top="0" tabpos="10">
+		<Cursor position="429" topLine="0" />
+		<BrowseMarks positions="48,78,102,106,144,247,487" />
+	</File>
+	<File name="c_State.h" open="0" top="0" tabpos="8">
+		<Cursor position="321" topLine="0" />
+		<BrowseMarks positions="46,115,151,165,167,377" />
+	</File>
+	<File name="Utilities.c" open="0" top="0" tabpos="11">
+		<Cursor position="342" topLine="0" />
+		<BrowseMarks positions="259,322,342" />
+	</File>
+	<File name="Window.c" open="0" top="0" tabpos="5">
+		<Cursor position="2424" topLine="66" />
+		<BrowseMarks positions="226,254,277,305,393,500,1663,1992,2159,2367,2369,2586,2760,2802,2846,2912,3078" />
+	</File>
+	<File name="Graphic.h" open="0" top="0" tabpos="6">
+		<Cursor position="403" topLine="0" />
+		<BrowseMarks positions="357,359,393,414" />
+	</File>
+	<File name="Settings.h" open="0" top="0" tabpos="2">
+		<Cursor position="266" topLine="0" />
+		<BrowseMarks positions="0,54,90,92,118,219,341" />
+	</File>
+	<File name="Utilities.h" open="0" top="0" tabpos="3">
+		<Cursor position="100" topLine="0" />
+		<BrowseMarks positions="72,109,167" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="3">
+		<Cursor position="7121" topLine="183" />
+		<BrowseMarks positions="6547,6566,6807,7146" />
+	</File>
+	<File name="config.ini" open="1" top="0" tabpos="1">
+		<Cursor position="980" topLine="8" />
+		<BrowseMarks positions="0,112,126,150,169,235,253,330,433,453,501,614,868,886,982" />
+	</File>
+	<File name="c_State.c" open="0" top="0" tabpos="9">
+		<Cursor position="124" topLine="0" />
+		<BrowseMarks positions="384,265,124" />
+	</File>
+	<File name="Logic.c" open="1" top="1" tabpos="2">
+		<Cursor position="4726" topLine="109" />
+		<BrowseMarks positions="22032,22099,22197,22259,22584,22640,22892,23716,23718,24292,24490,27189,10405,13645,13685,13741,13773,17106,19753,20601" />
+	</File>
+	<File name="Logic.h" open="1" top="0" tabpos="4">
+		<Cursor position="897" topLine="32" />
+		<BrowseMarks positions="899,928,1349,1477,1552,1578,1612,1650,1707,1814,897" />
+	</File>
+	<File name="g_Rectangle.c" open="0" top="0" tabpos="11">
+		<Cursor position="1099" topLine="3" />
+		<BrowseMarks positions="48,239,250,338,356,358,471,636,638,654" />
+	</File>
+	<File name="Settings.c" open="0" top="0" tabpos="3">
+		<Cursor position="833" topLine="0" />
+		<BrowseMarks positions="41,525,576,649,689,835,1283,1328,1415,1604,1606,1695,2108,2454,2516,2561" />
+	</File>
+</BrowseTracker_layout_file>

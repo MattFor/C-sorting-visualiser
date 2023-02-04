@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1675470998 source:c:\programming\c\2023\07_01-sort_visualizer\main.c
+	"Window.h"
+	"Logic.h"
+
+1675472162 c:\programming\c\2023\07_01-sort_visualizer\version.h
+
+1674088023 c:\programming\c\2023\07_01-sort_visualizer\s_rectangle.h
+	"c_Shape.h"
+
+1674432916 c:\programming\c\2023\07_01-sort_visualizer\c_shape.h
+	<gl/gl.h>
+
+1673330545 c:\programming\c\2023\07_01-sort_visualizer\util.h
+	<time.h>
+	"version.h"
+
+1674487661 c:\programming\c\2023\07_01-sort_visualizer\window.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	"Version.h"
+	"Settings.h"
+	"Graphic.h"
+
+1674423140 c:\programming\c\2023\07_01-sort_visualizer\utilities.h
+
+1674518930 c:\programming\c\2023\07_01-sort_visualizer\logic.h
+	"Settings.h"
+	"Utilities.h"
+	"c_State.h"
+	"g_Rectangle.h"
+
+1674519178 c:\programming\c\2023\07_01-sort_visualizer\c_state.h
+
+1673833381 c:\programming\c\2023\07_01-sort_visualizer\defaultsettings.h
+	"Logic.h"
+
+1674514804 c:\programming\c\2023\07_01-sort_visualizer\settings.h
+	<windows.h>
+
+1674058834 c:\programming\c\2023\07_01-sort_visualizer\logic.c
+	"Logic.h"
+
+1675472157 source:c:\programming\c\2023\07_01-sort_visualizer\logic.c
+	"Logic.h"
+
+1674088231 source:c:\programming\c\2023\07_01-sort_visualizer\c_shape.c
+	"c_Shape.h"
+
+1674423146 source:c:\programming\c\2023\07_01-sort_visualizer\utilities.c
+	"Utilities.h"
+
+1674477732 source:c:\programming\c\2023\07_01-sort_visualizer\window.c
+	"Window.h"
+
+1674088730 source:c:\programming\c\2023\07_01-sort_visualizer\s_rectangle.c
+	"s_Rectangle.h"
+
+1674519178 source:c:\programming\c\2023\07_01-sort_visualizer\c_state.c
+	"c_State.h"
+
+1674514933 source:c:\programming\c\2023\07_01-sort_visualizer\settings.c
+	"Settings.h"
+
+1674435038 source:c:\programming\c\2023\07_01-sort_visualizer\keyboard.c
+
+1674514001 c:\programming\c\2023\07_01-sort_visualizer\graphic.h
+	<gl/gl.h>
+
+1674519178 source:c:\programming\c\2023\07_01-sort_visualizer\g_rectangle.c
+	"g_Rectangle.h"
+
+1674519178 c:\programming\c\2023\07_01-sort_visualizer\g_rectangle.h
+	"Graphic.h"
+
+1674487755 source:c:\programming\c\2023\07_01-sort_visualizer\graphic.c
+	"Graphic.h"
+
